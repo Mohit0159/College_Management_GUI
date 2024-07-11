@@ -67,7 +67,7 @@ class DepartmentClass:
 
         self.mytable.heading('c1',text="Department Name")
         self.mytable.heading('c2',text="Head Of Department")
-        self.mytable.heading("c3",text="Phone Number")
+        self.mytable.heading("c3",text="P N")
 
         self.mytable['show']='headings'
 
